@@ -16,5 +16,5 @@
     <dimen name="default_horizontal_spacing">30dp</dimen>
     <dimen name="default_vertical_spacing">0dp</dimen>
     <dimen name="dimen_25">25dp</dimen>
-
+    <dimen name="default_edittext_layout_height">32sp</dimen>
 </resources>
